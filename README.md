@@ -16,7 +16,7 @@ Com formação em Gestão da Qualidade e MBA em Gestão de Projetos, desenvolvi 
 ° Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados <br>
 ° Implementação de IA de atendimento para automatizar e qualificar leads <br>
 ° Automação de processos e integrações via N8N <br>
-° Planejamento estratégico de soluções tecnológicas alinhadas aos objetivos de negócio <br><br>
+° Planejamento estratégico de soluções tecnológicas alinhadas aos objetivos de negócio <br>
 
 Sou apaixonado por transformar desafios em soluções inovadoras, combinando gestão eficiente, conhecimento técnico e visão estratégica para agregar valor real às empresas com as quais atuo.
 
