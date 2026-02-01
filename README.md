@@ -1,16 +1,27 @@
 ## Bem-vindo(a) ao perfil do Alexandre Junior 😁
 
-Desenvolvedor Front-End | HTML, CSS, JavaScript, Node.js, React.js, WordPress e Elementor
+Gestor de Projetos Tech | Desenvolvimento Web & IA de Atendimento | Assessoria de Marketing para Locadoras
 
-Sou um desenvolvedor Front-End com formação em Gestão da Qualidade e MBA em Gestão de Projetos. Ao longo da minha trajetória, adquiri conhecimentos em lógica de programação, além de desenvolver habilidades técnicas em linguagens e ferramentas como HTML, CSS, JavaScript, Node.js, React.js, WordPress e Elementor.
+Olá! Seja bem-vindo ao meu perfil! 👋
 
-A área de tecnologia está em constante evolução, e estou acompanhando de perto esse crescimento. Busco sempre expandir meu conhecimento e especialização para me tornar um profissional de referência, contribuindo com soluções inovadoras e de alto impacto no desenvolvimento de sistemas e experiências digitais.
+Atualmente, atuo como Gestor de Projetos Tech na ODuo Assessoria, uma empresa especializada em marketing para locadoras de máquinas e equipamentos. Lidero uma equipe técnica de 3 pessoas focada em entregar soluções digitais de alto impacto: desenvolvimento de sites, sistemas de gestão e IA de atendimento (SharkPro).
 
-Estou em constante busca por aprendizado e aprimoramento, com o objetivo de agregar valor às equipes em que atuo, promovendo excelência técnica e entregas de qualidade.
+Minha trajetória na ODuo começou como Desenvolvedor Front-End, evoluiu para Gestor de Projetos coordenando equipes multidisciplinares (tráfego, design, desenvolvimento e copywriting), e hoje me especializo na gestão estratégica de projetos tecnológicos, unindo visão de negócio com execução técnica.
 
-Me contate em: 
+Com formação em Gestão da Qualidade e MBA em Gestão de Projetos, desenvolvi competências tanto em liderança estratégica quanto em desenvolvimento hands-on. Minha stack técnica inclui HTML, CSS, JavaScript, Node.js, React.js, PHP, WordPress, Elementor, N8N e Chatwoot, permitindo que eu atue desde o planejamento até a implementação técnica das soluções.
 
-📱 (19) 981386574 <br>
+📌 O que entrego:
+
+° Gestão end-to-end de projetos digitais com foco em resultados mensuráveis
+° Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados
+° Implementação de IA de atendimento para automatizar e qualificar leads
+° Automação de processos e integrações via N8N
+° Planejamento estratégico de soluções tecnológicas alinhadas aos objetivos de negócio
+
+Sou apaixonado por transformar desafios em soluções inovadoras, combinando gestão eficiente, conhecimento técnico e visão estratégica para agregar valor real às empresas com as quais atuo.
+
+📱 Contato
+📞 (19) 98138-6574
 ✉️ alexandrejrtech01@gmail.com
 
 
