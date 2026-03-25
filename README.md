@@ -1,26 +1,20 @@
 ## Bem-vindo(a) ao perfil do Alexandre Junior 😁
 
-Gestor de Projetos Tech | Desenvolvimento Web & IA de Atendimento | Assessoria de Marketing para Locadoras
+👋 Olá! Sou Alexandre, Desenvolvedor Front-End e Back-End apaixonado por transformar ideias em soluções digitais completas e funcionais.
 
-Olá! Seja bem-vindo ao meu perfil! 👋
+Atuo na ODuo Assessoria, empresa especializada em marketing para locadoras de máquinas e equipamentos, onde desenvolvo e mantenho produtos digitais de alto impacto: sites institucionais, landing pages, sistemas de gestão, marketplace e soluções de IA de atendimento (SharkPro).
 
-Atualmente, atuo como Gestor de Projetos Tech na ODuo Assessoria, uma empresa especializada em marketing para locadoras de máquinas e equipamentos. Lidero uma equipe técnica de 3 pessoas focada em entregar soluções digitais de alto impacto: desenvolvimento de sites, sistemas de gestão e IA de atendimento (SharkPro).
+Minha trajetória passou por Web Design, evolui pelo Front-End e hoje atuo em todo o ciclo de desenvolvimento — da interface ao servidor — entregando aplicações web robustas, escaláveis e orientadas a resultado.
 
-Minha trajetória na ODuo começou como Desenvolvedor Front-End, evoluiu para Gestor de Projetos coordenando equipes multidisciplinares (tráfego, design, desenvolvimento e copywriting), e hoje me especializo na gestão estratégica de projetos tecnológicos, unindo visão de negócio com execução técnica.
+🛠️ Stack técnica React.js · JavaScript · Node.js · PHP · HTML · CSS · MySQL · WordPress · N8N · Chatwoot
 
-Com formação em Gestão da Qualidade e MBA em Gestão de Projetos, desenvolvi competências tanto em liderança estratégica quanto em desenvolvimento hands-on. Minha stack técnica inclui HTML, CSS, JavaScript, Node.js, React.js, PHP, WordPress, Elementor, N8N e Chatwoot, permitindo que eu atue desde o planejamento até a implementação técnica das soluções.
+📌 O que entrego
+Desenvolvimento de interfaces responsivas e performáticas com React.js e JavaScript, APIs e sistemas back-end com Node.js e PHP, automação de processos e integrações via N8N, implementação de IA de atendimento para qualificação e conversão de leads, e aplicações web completas do planejamento à entrega.
 
-📌 O que entrego:
+🎓 Formação
+Gestão da Qualidade + MBA em Gestão de Projetos (ESAMC) — uma visão que vai além do código e agrega perspectiva estratégica ao desenvolvimento.
 
-° Gestão end-to-end de projetos digitais com foco em resultados mensuráveis <br>
-° Desenvolvimento de sites institucionais, landing pages e sistemas web personalizados <br>
-° Implementação de IA de atendimento para automatizar e qualificar leads <br>
-° Automação de processos e integrações via N8N <br>
-° Planejamento estratégico de soluções tecnológicas alinhadas aos objetivos de negócio <br>
-
-Sou apaixonado por transformar desafios em soluções inovadoras, combinando gestão eficiente, conhecimento técnico e visão estratégica para agregar valor real às empresas com as quais atuo.
-
-📱 Contato
+Contato:
 📞 (19) 98138-6574
 ✉️ alexandrejrtech01@gmail.com
 
