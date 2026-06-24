@@ -1,22 +1,16 @@
 ## Bem-vindo(a) ao perfil do Alexandre Junior 😁
 
-👋 Olá! Sou Alexandre, Desenvolvedor Front-End e Back-End apaixonado por transformar ideias em soluções digitais completas e funcionais.
+Desenvolvedor Full-Stack com 2 anos de experiência construindo aplicações web completas, do front-end ao back-end.
+ 
+Na ODuo Assessoria, desenvolvi 60+ projetos web — entre landing pages, sites institucionais, dashboards e ferramentas internas — além de 8+ automações via N8N que reduziram operações manuais em 60%.
+ 
+Formação complementar em Gestão de Projetos (MBA) que agrega visão estratégica ao desenvolvimento. Focado em soluções digitais orientadas a resultado.
+ 
+Stack: React.js · Node.js · JavaScript · PHP · PostgreSQL · N8N · Git / GitHub · REST APIs · HTML / CSS
 
-Atuo na ODuo Assessoria, empresa especializada em marketing para locadoras de máquinas e equipamentos, onde desenvolvo e mantenho produtos digitais de alto impacto: sites institucionais, landing pages, sistemas de gestão, marketplace e soluções de IA de atendimento (SharkPro).
-
-Minha trajetória passou por Web Design, evolui pelo Front-End e hoje atuo em todo o ciclo de desenvolvimento — da interface ao servidor — entregando aplicações web robustas, escaláveis e orientadas a resultado.
-
-🛠️ Stack técnica React.js · JavaScript · Node.js · PHP · HTML · CSS · MySQL · WordPress · N8N · Chatwoot
-
-📌 O que entrego
-Desenvolvimento de interfaces responsivas e performáticas com React.js e JavaScript, APIs e sistemas back-end com Node.js e PHP, automação de processos e integrações via N8N, implementação de IA de atendimento para qualificação e conversão de leads, e aplicações web completas do planejamento à entrega.
-
-🎓 Formação
-Gestão da Qualidade + MBA em Gestão de Projetos (ESAMC) — uma visão que vai além do código e agrega perspectiva estratégica ao desenvolvimento.
-
-Contato:
-📞 (19) 98138-6574
-✉️ alexandrejrtech01@gmail.com
+Contato: <br>
+📞 (19) 98138-6574 <br>
+✉️ alexandrejrtech01@gmail.com <br>
 
 <br>
 
